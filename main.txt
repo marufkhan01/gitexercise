@@ -1,2 +1,6 @@
 This is a master edit
+<<<<<<< HEAD
 This is a branch edit
+=======
+This is a second master edit
+>>>>>>> master
